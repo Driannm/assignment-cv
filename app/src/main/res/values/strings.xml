@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas 1 - CV</string>
+    <string name="nama">Yuda Andrian</string>
+    <string name="deskripsi">Nama Yuda Andrian</string>
+    <string name="isideskripsi">Saya adalah mahasiswa Teknik Komputer semester 5 yang berdedikasi dan antusias dengan minat yang kuat pada Komputasi Awan. Selama masa studi saya, saya telah membangun dasar yang kuat dalam ilmu komputer dan teknologi, dan mengembangkan keterampilan teknis yang relevan melalui berbagai proyek akademis dan pengalaman praktis.</string>
+
+    <string name="alamat">Alamat\t\t: Kepandean, Kab. Tegal</string>
+    <string name="email">Email\t\t  : yuda.studying@gmail.com</string>
+    <string name="job"><![CDATA[Mahasiswa Teknik Komputer Semester 5]]></string>
+    <string name="no_hp">Phone  : 0822-1630-8189</string>
+
+    <string name="skil1">• Backend Developer</string>
+    <string name="skil2">• DevOps</string>
+    <string name="skil3">• Cloud Computing</string>
+    <string name="klik">Butuh informasi lebih lanjut? \Bagikan\!</string>
+    <string name="bagikan">Bagikan!</string>
+</resources>
